@@ -1,6 +1,6 @@
 {
   "name": "simple-bitmap-font",
-  "version": "0.0.122",
+  "version": "0.0.124",
   "description": "small 8x8 bitmap font for 2d/3d graphics and terminal",
   "main": "index.js",
   "scripts": {

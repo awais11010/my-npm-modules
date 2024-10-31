@@ -887,7 +887,7 @@ BitmapFont.prototype.getBitmapStringFromString_horizontal = function(str, scroll
     function pullRow(n){
         return letters_rows.map(function(lr){
             return lr[n];
-        }).join(" ");
+        }).join("");
     }
 
     var str = "";
